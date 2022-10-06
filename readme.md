@@ -1,4 +1,4 @@
-# Blood flow analysis from _in vivo_ hemodynamic fluorescence imaging
+# Blood flow analysis from hemodynamic fluorescence imaging _in vivo_
 
 ## Citation:  
 _G. Meng et al., Ultrafast two-photon fluorescence imaging of cerebral blood circulation in the mouse brain in vivo. 
